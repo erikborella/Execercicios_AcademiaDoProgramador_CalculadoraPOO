@@ -1,0 +1,13 @@
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\bin\Debug\netcoreapp3.1\CalculadoraPoo.exe
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\bin\Debug\netcoreapp3.1\CalculadoraPoo.deps.json
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\bin\Debug\netcoreapp3.1\CalculadoraPoo.runtimeconfig.json
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\bin\Debug\netcoreapp3.1\CalculadoraPoo.runtimeconfig.dev.json
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\bin\Debug\netcoreapp3.1\CalculadoraPoo.dll
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\bin\Debug\netcoreapp3.1\CalculadoraPoo.pdb
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.csprojAssemblyReference.cache
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.AssemblyInfoInputs.cache
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.AssemblyInfo.cs
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.csproj.CoreCompileInputs.cache
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.dll
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.pdb
+C:\Users\erik0\source\repos\CalculadoraPoo\CalculadoraPoo\obj\Debug\netcoreapp3.1\CalculadoraPoo.genruntimeconfig.cache
